@@ -43,7 +43,7 @@ class cams:
 				<li>Once we have 10 good ones, show the Utah goodness!
 			</ol>
 		</p>
-		<p>Python source <a href="">here</a>.
+		<p>Python source <a href="https://github.com/mvexel/VisitUtah">here</a>.
 		<hr>
 		<em>A <a href="http://oegeo.wordpress.com/">Very Furry</a> Procrastination Project done on 11/18/11</em>
 	</body>
